@@ -43,6 +43,7 @@
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
+//papoplnwza
 uint8_t RxBuffer[5];
 uint8_t TxBuffer[40];
 uint8_t st = 0, Blink_st = 1;
